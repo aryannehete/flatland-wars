@@ -1,5 +1,5 @@
-one 100000000000
+one 10
 two 9
-thr 4
-fou 3
+thr 6
+fou 5
 fiv 3
